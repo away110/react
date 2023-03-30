@@ -1,0 +1,28 @@
+.pro{
+    img{
+        max-height: 90px;
+    }
+}
+.top3{
+    width: 450px;
+    display: flex;
+    justify-content: space-between;
+    // width: 50%;
+    .from{
+        width: 200px;
+        height: 100%;
+    }
+}
+.searchs{
+    img{
+        max-height: 90px;
+    }
+    .ant-form{
+        width: 350px;
+        display: flex;
+        justify-content: space-between;
+        .ant-select-selector{
+            margin-right: 10px;
+        }
+    }
+}
